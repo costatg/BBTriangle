@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\tiago\\Desktop\\ES II\\BBTriangle\\build\\classes\\java\\main;C:\\Users\\tiago\\Desktop\\ES II\\BBTriangle\\build\\resources\\main'
+-d 'C:\\Users\\tiago\\Desktop\\ES II\\BBTriangle\\build\\docs\\javadoc'
+-doctitle 'BBTriangle API'
+-notimestamp 
+-quiet 
+-windowtitle 'BBTriangle API'
+'C:\\Users\\tiago\\Desktop\\ES II\\BBTriangle\\src\\main\\java\\triangle\\Triangle.java'
